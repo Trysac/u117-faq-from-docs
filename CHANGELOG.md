@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Add trysac-faq-from-docs library with split_sections, generate_faq, quote validation, and Markdown FAQ rendering
 - Initial project structure from the factory utility template.
